@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AXPokies Hub</string>
+    <string name="title_partnerships">Partnerships</string>
+    <string name="search_placeholder">Search partnerships or websites</string>
+    <string name="btn_view_websites">View Websites</string>
+    <string name="btn_visit_now">Visit Now</string>
+    <string name="btn_visit_website">Visit Website</string>
+    <string name="empty_search_message">No partnerships or websites found.</string>
+    <string name="btn_clear_search">Clear Search</string>
+    <string name="websites_count">%1$d Websites</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_clear_search">Clear search text</string>
+    <string name="cd_search_icon">Search icon</string>
+    <string name="cd_app_logo">AXPokies Hub Logo</string>
+</resources>

@@ -1,0 +1,7 @@
+{
+  "name": "AXPokies Hub",
+  "description": "A modern dark-themed partnership directory and website hub with real-time search and responsive UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
